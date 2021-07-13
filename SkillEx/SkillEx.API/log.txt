@@ -1,0 +1,14 @@
+
+Starting Import.
+
+Loading Claims.
+Claim Imported.
+UnKnown Claim Type
+Type: UnKnown - DOI: 12/9/2017 9:00:00 PM - Number: WC456123 - Claimant: FirstName: Robert V.LastName: Morton
+UnKnown Claim Type
+Type: UnKnown - DOI: 12/19/2015 9:00:00 PM - Number: 987654 - Claimant: FirstName: Sara A.LastName: Wallin
+UnKnown Claim Type
+Type: UnKnown - DOI: 5/24/2014 9:00:00 PM - Number: 123456 - Claimant: FirstName: Laura R.LastName: Black
+UnKnown Claim Type
+Type: UnKnown - DOI: 11/30/2019 9:00:00 PM - Number: 123789-01 - Claimant: FirstName: Reed E.LastName: Weber
+Claim Reported.

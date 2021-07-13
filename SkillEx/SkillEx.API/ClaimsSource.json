@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "WC",
+    "DOI": "2018-01-10T00:00:00.000Z",
+    "Number": "WC456123",
+    "Claimant": {
+      "FirstName": "Robert V.",
+      "LastName": "Morton"
+    }
+  },
+  {
+    "Type": "Auto",
+    "DOI": "2016-01-20T00:00:00.000Z",
+    "Number": "987654",
+    "Claimant": {
+      "FirstName": "Sara A.",
+      "LastName": "Wallin"
+    }
+  },
+  {
+    "Type": "WC",
+    "DOI": "2014-06-25T00:00:00Z",
+    "Number": "123456",
+    "Claimant": {
+      "FirstName": "Laura R.",
+      "LastName": "Black"
+    }
+  },
+  {
+    "Type": "FutureType",
+    "DOI": "2020-01-01T00:00:00Z",
+    "Number": "123789-01",
+    "Claimant": {
+      "FirstName": "Reed E.",
+      "LastName": "Weber"
+    }
+  }
+]
